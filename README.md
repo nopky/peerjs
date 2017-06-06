@@ -3,10 +3,10 @@
 PeerJS provides a complete, configurable, and easy-to-use peer-to-peer API built on top of WebRTC, supporting both data channels and media streams.
 
 ## 確認用URL
-**ファイル転送付きチャット**
-- [https://nopky.github.io/peerjs/examples/chat.html](https://nopky.github.io/peerjs/examples/chat.html)
-**ビデオチャット**
-- [https://nopky.github.io/peerjs/examples/videochat/index.html](https://nopky.github.io/peerjs/examples/videochat/index.html)
+- ファイル転送付きチャット
+  - [https://nopky.github.io/peerjs/examples/chat.html](https://nopky.github.io/peerjs/examples/chat.html)
+- ビデオチャット
+  - [https://nopky.github.io/peerjs/examples/videochat/index.html](https://nopky.github.io/peerjs/examples/videochat/index.html)
 
 ## Notice 
 This branch is a customized version of PeerJS for NTT Communications's WebRTC platform SkyWay.
