@@ -2,7 +2,7 @@
 
 PeerJS provides a complete, configurable, and easy-to-use peer-to-peer API built on top of WebRTC, supporting both data channels and media streams.
 
-## 確認用URL
+## Link
 - ファイル転送付きチャット
   - [https://nopky.github.io/peerjs/examples/chat.html](https://nopky.github.io/peerjs/examples/chat.html)
 - ビデオチャット
